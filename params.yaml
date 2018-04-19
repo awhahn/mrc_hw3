@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_manini__40805: 'http://manini:40805/'}
+rosversion: '1.12.12
+
+  '
+run_id: 69de8c4c-426c-11e8-bec3-c85b76c7ef6e
